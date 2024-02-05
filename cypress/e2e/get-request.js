@@ -1,5 +1,3 @@
-/// <reference types = "cypress"/>
-
 describe("Get Request", () => {
   let result;
 

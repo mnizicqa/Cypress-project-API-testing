@@ -1,5 +1,3 @@
-/// <reference types = "cypress"/>
-
 describe("Post,Get,Put and Delete Request", () => {
   let comments = new Array();
 

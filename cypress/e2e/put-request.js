@@ -1,5 +1,3 @@
-/// <reference types = "cypress"/>
-
 describe("Put Request", () => {
   it("Update an existing post via /posts api", () => {
     cy.request({

@@ -1,5 +1,3 @@
-/// <reference types = "cypress"/>
-
 describe("Post Request", () => {
   let titleOfPosts = new Array();
   let randomTitle =

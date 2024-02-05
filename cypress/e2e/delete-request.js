@@ -1,5 +1,3 @@
-/// <reference types = "cypress"/>
-
 describe("Delete Request", () => {
   it("Delete an existing post via /posts api", () => {
     cy.request({
